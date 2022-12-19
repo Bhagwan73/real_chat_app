@@ -26,7 +26,7 @@ section.chat__section {
     overflow-y: auto;
     margin-bottom: 23px;
     background-color: rgb(249, 226, 23);
-    background-image: url("https://tse1.mm.bing.net/th?id=OIP.FWAu9yYRIo_UxWRkjK_LHAHaFL&pid=Api&P=0");
+    background-image: url("http://www.pixelstalk.net/wp-content/uploads/2016/06/Beautiful-Flowers-wallpaper-hd-download.jpg");
     
 }
 
@@ -64,6 +64,7 @@ section.chat__section {
     background-color: rgb(112, 216, 109);
     font-style: oblique ;
     font-weight: 800;
+  
 } 
 .incoming{
     float: left;
